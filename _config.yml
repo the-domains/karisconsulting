@@ -1,0 +1,28 @@
+name: Karis Guillot
+favicon: null
+layout_spectrum: 0.19098615436814725
+typography_spectrum: 0.38510356983169913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.42930804984644055
+  lightness: 0.4936692120973021
+  saturation: 0.9449876858852804
+  rhythmicContrast: 0.06763149448670447
+purpose: []
